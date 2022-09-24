@@ -69,5 +69,8 @@
     "doc": "doc",
     "lib": "lib",
     "test": "test"
+  },
+  "publishConfig": {
+    "@kidph:registry": "https://npm.pkg.github.com"
   }
 }
